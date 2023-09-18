@@ -98,6 +98,7 @@ html,body{
     transform-origin: center center; /* Set the transform origin to the center */
     color: rgb(255, 255, 175); /* Initial text color */
     background-color: rgb(37, 37, 35);
+    user-select: none;
 }
 
 #bysaurabh:hover {
