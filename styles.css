@@ -93,22 +93,22 @@ html,body{
     padding: 10px;
     border: 2px solid black;
     border-radius: 23px;
-    cursor: pointer; /* Add a pointer cursor for better UX */
-    transition: all 0.3s ease-in-out; /* Apply a smooth transition */
-    transform-origin: center center; /* Set the transform origin to the center */
-    color: rgb(255, 255, 175); /* Initial text color */
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    transform-origin: center center;
+    color: rgb(255, 255, 175);
     background-color: rgb(37, 37, 35);
     user-select: none;
 }
 
 #bysaurabh:hover {
-    color: rgb(255, 255, 175); /* Change the text color on hover */
-    /*transform: translateX(-50%) scale(0.5); /* Apply scale transformation on hover */
+    color: rgb(255, 255, 175); 
+    /*transform: translateX(-50%) scale(0.5);*/
 }
 
 #bysaurabh:active {
-    color: rgb(251, 251, 251); /* Change the text color on click */
-    transform: translateX(-50%) scale(0.7); /* Apply scale transformation on click */
+    color: rgb(251, 251, 251);
+    transform: translateX(-50%) scale(0.7);
 }
 
 
